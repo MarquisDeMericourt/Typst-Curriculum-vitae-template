@@ -15,22 +15,22 @@
   "link"    : "https://www.youtube.com/watch?v=RoJFmMtkppU&list=RDRoJFmMtkppU&start_radio=1"
   ),
   ("service": "home",
-  "display" : "CANADA",
-  "link": "),
+  "display" : "Canada",
+  "link": ""),
   (
     "service": "linkedin",
-    "display": "Marquis de Mericourt",
-    "link": "" //paste link
+    "display": "",
+    "link": "www.linkedin.com/"
   ),
   (
     "service": "email",
-    "display": "", //paste your email
+    "display": "abc.def@gmail.com", //your email
     "link": "mailto:"
   ),
   (
     "service": "phone",
-    "display": "", //enter your phone number
-    "link": ""
+    "display": "888-888-8888", //yourphone
+    "link": "tel:+"
   )
 )
 
